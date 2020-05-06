@@ -3,5 +3,7 @@ class Test{
 		System.out.println("Hello git");
 		System.out.println("Hi Git");
 		System.out.println("branch1");
+		System.out.println("branch2");
+
 	}
 }
