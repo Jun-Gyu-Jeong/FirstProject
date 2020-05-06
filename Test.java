@@ -6,4 +6,3 @@ class Test{
 		System.out.println("branch2");
 
 	}
-}
